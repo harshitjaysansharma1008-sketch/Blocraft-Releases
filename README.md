@@ -4,7 +4,6 @@ Blocraft is a Windows-first, local desktop visual automation studio. This reposi
 
 **Author:** Harshit Jaysan Sharma<br>
 **Project version:** 0.5.0 (development)
-<img width="1774" height="887" alt="Blocraft_ Automate, Create, Simplify" src="https://github.com/user-attachments/assets/90f5c7c0-b621-42e5-829c-887c9ca28ea9" />
 
 ## Screemshots
 <img width="1278" height="761" alt="image" src="https://github.com/user-attachments/assets/8d65ed0d-8633-493f-b1db-0de36df71715" />
