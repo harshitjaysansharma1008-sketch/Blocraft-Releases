@@ -1,9 +1,12 @@
-# Blocraft
+<img width="1774" height="887" alt="Blocraft_ Automate, Create, Simplify" src="https://github.com/user-attachments/assets/2815a98b-9714-48b5-9411-ea8bf876ef4c" /># Blocraft
 
 Blocraft is a Windows-first, local desktop visual automation studio. This repository is the **working foundation**, not a claim that every item in the long-term product brief is already finished.
 
 **Author:** Harshit Jaysan Sharma<br>
 **Project version:** 0.5.0 (development)
+<img width="1774" height="887" alt="Blocraft_ Automate, Create, Simplify" src="https://github.com/user-attachments/assets/90f5c7c0-b621-42e5-829c-887c9ca28ea9" />
+
+## Screemshots
 <img width="1278" height="761" alt="image" src="https://github.com/user-attachments/assets/8d65ed0d-8633-493f-b1db-0de36df71715" />
 <img width="2558" height="1526" alt="image" src="https://github.com/user-attachments/assets/3dfaa762-2077-4c0a-a5bf-2b24ec72bd7b" />
 <img width="2558" height="1526" alt="image" src="https://github.com/user-attachments/assets/8c1e19a4-3743-4cba-9017-5372a2a3840b" />
