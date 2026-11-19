@@ -3,6 +3,8 @@ Official Blocraft downloads and release information.
 # Blocraft
 <img width="1278" height="761" alt="image" src="https://github.com/user-attachments/assets/8d65ed0d-8633-493f-b1db-0de36df71715" />
 <img width="2558" height="1526" alt="image" src="https://github.com/user-attachments/assets/3dfaa762-2077-4c0a-a5bf-2b24ec72bd7b" />
+<img width="2558" height="1526" alt="image" src="https://github.com/user-attachments/assets/8c1e19a4-3743-4cba-9017-5372a2a3840b" />
+<img width="2556" height="1521" alt="image" src="https://github.com/user-attachments/assets/560594dd-7d2b-4698-9b55-b8cb63255b15" />
 
 **Visual automation made simple.**
 
